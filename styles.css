@@ -1,0 +1,32 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+* {
+    background-color: pink;
+}
+
+.title {
+    color:plum;
+    font-size: 100px;
+}
+
+.mainTitle{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div {
+    background-color: palevioletred;
+    color:white;
+    font-family: fantasy;
+}
+
+.list {
+    color: palevioletred
+}
+
+#desc {
+    color: peru;
+}
